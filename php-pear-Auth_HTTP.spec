@@ -8,7 +8,7 @@
 Summary:	%{_pearname} - HTTP authentication system using PHP
 Name:		php-pear-%{_pearname}
 Version:	2.1.6
-Release:	%mkrel 7
+Release:	%mkrel 8
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
@@ -18,7 +18,7 @@ Requires(preun): php-pear
 Requires:	php-pear
 BuildArch:	noarch
 BuildRequires:	dos2unix
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 The PEAR::Auth_HTTP class provides methods for creating an HTTP
