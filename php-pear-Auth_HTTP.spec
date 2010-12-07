@@ -6,7 +6,7 @@
 
 Name:       php-pear-%{upstream_name}
 Version:	2.1.6
-Release:	%mkrel 11
+Release:	%mkrel 12
 Summary:	HTTP authentication system using PHP
 License:	PHP License
 Group:		Development/PHP
