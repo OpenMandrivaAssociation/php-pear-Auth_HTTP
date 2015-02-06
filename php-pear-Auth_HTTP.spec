@@ -4,7 +4,7 @@
 
 Name:       php-pear-%{upstream_name}
 Version:	2.1.8
-Release:	1
+Release:	2
 Summary:	HTTP authentication system using PHP
 License:	PHP License
 Group:		Development/PHP
