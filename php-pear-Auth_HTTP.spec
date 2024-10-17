@@ -8,7 +8,7 @@ Release:	2
 Summary:	HTTP authentication system using PHP
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Auth_HTTP/
+URL:		https://pear.php.net/package/Auth_HTTP/
 Source0:	http://download.pear.php.net/package/Auth_HTTP-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
